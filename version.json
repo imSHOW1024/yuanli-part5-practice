@@ -1,10 +1,10 @@
 {
-  "release": "1022v35-trainer-r15",
+  "release": "1022v35-trainer-r16",
   "scriptRevision": "1021v35-part5-knox-r1",
-  "sourceSha256": "93f75145c7f67f74f2a65ed18505fb4669c3f3e1816eb0a5b7af7a3c1ee4835b",
-  "builtAt": "2026-10-22T05:16:06+08:00",
+  "sourceSha256": "11c718735266b58a640874de3a72407711d9ae651878135dc575a8358cb452e3",
+  "builtAt": "2026-10-22T06:25:27+08:00",
   "pagesURL": "https://imshow1024.github.io/yuanli-part5-practice/",
   "audioClips": 28,
-  "htmlSha256": "0c0a80c695c782b0d85baddb9983be0ba5b2f57d42327f9a0aaa0e3ff2dcf354",
-  "offlineSha256": "c0c85e4e3626662e39ec9f51ab895f03ade2d2474bad2dcc61fef53c036a3274"
+  "htmlSha256": "ebb70dfae272fd185dd47ed41d089dd440656a432d0af7dec92c764fdb5f9943",
+  "offlineSha256": "de0025ee76df9a03480684644339ab20f4f174616d89d0a26f5727f7aeecb306"
 }
