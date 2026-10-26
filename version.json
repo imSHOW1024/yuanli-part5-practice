@@ -1,10 +1,10 @@
 {
-  "release": "1026v43-trainer-r28",
-  "scriptRevision": "1025v43-full-sentences-r1",
-  "sourceSha256": "98dfd28dcd1dd1c458aa151461073c996d6c9ac71f419b013b843c0721091fe3",
-  "builtAt": "2026-10-26T15:25:48+08:00",
+  "release": "1026v43-trainer-r30",
+  "scriptRevision": "1026v43-page16-approved-r1",
+  "sourceSha256": "6c333390954b41dacd80665d9de70617a77d04b169cd50c2e31c1b0a6da9d23a",
+  "builtAt": "2026-10-26T18:40:39+08:00",
   "pagesURL": "https://imshow1024.github.io/yuanli-part5-practice/",
-  "audioClips": 142,
-  "htmlSha256": "b7ad2131b9e0da90e28fddc4afc80620be991fb83dfc9702d7e9c0c73e6c4e1f",
-  "offlineSha256": "0ce9dd1f50447067fe23d969f8e380158506f0a2cd4ad2cdbb1f2b090b189808"
+  "audioClips": 141,
+  "htmlSha256": "dd314460218aed7ff3b9bdae29fec6fa5605fc08a818aa9b16e6d0f20ec79bee",
+  "offlineSha256": "c01fc944e48adcc3567c34263a40c3bd24094385e442c83414e87e70b070dba1"
 }
