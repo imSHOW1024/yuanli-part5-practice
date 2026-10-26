@@ -1,5 +1,5 @@
 'use strict';
-const BUILD = {"release":"1026v43-trainer-r26","cache":"cycu-yuanli-pwa-1026v43-trainer-r26-96a33cb10ffeac83","assets":[{"path":"index.html","sha256":"96a33cb10ffeac83d9535ff958515366296d1cfa206743be084bf99e744766ef"},{"path":"manifest.webmanifest","sha256":"209ecffde8b75a12817530031637a1534ba7924ef5490762859e1e00b4ed572d"},{"path":"pwa-192.png","sha256":"61a2fa4353d78d66313ea8db08f73abb77abd3e1f9309eb8223d50a2d80e9fa7"},{"path":"pwa-512.png","sha256":"a64067ae7f62590b5f23a946df414d41be34ca303096254e332e487260b58a9b"}]};
+const BUILD = {"release":"1026v43-trainer-r27","cache":"cycu-yuanli-pwa-1026v43-trainer-r27-eca5221f9855f6b6","assets":[{"path":"index.html","sha256":"eca5221f9855f6b613a2c6e40c93d1082d4fbdfaa2ce7d1b1f69578c83463c0c"},{"path":"manifest.webmanifest","sha256":"209ecffde8b75a12817530031637a1534ba7924ef5490762859e1e00b4ed572d"},{"path":"pwa-192.png","sha256":"61a2fa4353d78d66313ea8db08f73abb77abd3e1f9309eb8223d50a2d80e9fa7"},{"path":"pwa-512.png","sha256":"a64067ae7f62590b5f23a946df414d41be34ca303096254e332e487260b58a9b"}]};
 const ROOT = new URL('./', self.location.href);
 const READY = new URL('__offline_ready__', ROOT).href;
 const STATE_CACHE = 'cycu-yuanli-pwa-state';
